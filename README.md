@@ -1,5 +1,9 @@
 # react-native-printer
 
+```
+Fork of react-native-printer
+```
+
 A React Native Library to support USB/BLE/Net printer for Android platform 
 
 ## Installation
